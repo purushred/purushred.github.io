@@ -1,11 +1,11 @@
 {
-  "name": "covid3d",
+  "name": "covid19live.app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build --out-dir . src/index.html"
+    "build": "parcel build src/index.html"
   },
   "keywords": [],
   "author": "",
