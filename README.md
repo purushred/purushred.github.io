@@ -1,4 +1,4 @@
-# COVID-3D
+# COVID19LIVE.APP
 
 3D visualization of latest data regarding Coronavirus cases, provided by the World Health Organization. Available in API form via https://github.com/NovelCOVID/API.
 
@@ -36,8 +36,6 @@ npm run build
 - https://github.com/NovelCOVID/API
 
 ## License & copyright
-
-© Robert C Soriano
 
 Licensed under the [MIT License](LICENSE).
 
