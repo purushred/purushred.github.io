@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.md",
-    "build": "parcel build --out-dir docs src/index.md"
+    "dev": "parcel src/index.html",
+    "build": "parcel build --out-dir . src/index.html"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,7 @@
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-runtime": "^7.9.0",
+    "marked": "^0.8.2",
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
