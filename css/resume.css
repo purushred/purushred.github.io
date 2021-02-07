@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Resume v5.0.7 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2021 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ * Start Bootstrap - Purushotham.Me v5.0.7 ()
+ * Copyright 2013-2021 
+ * Licensed under  (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
 body {
@@ -30,7 +30,7 @@ h6 {
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 4rem;
   line-height: 5.5rem;
 }
 
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #2a5bb8;
+  background-color: #17a2b8;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #2a5bb8;
+  color: #17a2b8;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #36cee6;
 }
 
 @media (min-width: 992px) {
@@ -176,17 +176,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #2a5bb8 !important;
+  background-color: #17a2b8 !important;
 }
 
 .text-primary {
-  color: #2a5bb8 !important;
+  color: #17a2b8 !important;
 }
 
 a {
-  color: #2a5bb8;
+  color: #17a2b8;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #0f6674;
 }
