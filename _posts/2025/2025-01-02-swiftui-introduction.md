@@ -4,7 +4,7 @@ date: 2025-01-02 00:00:00 +0000
 categories: [App, SwiftUI]
 tags: [swiftui, ios, macos]
 image: 
-    path: /assets/img/swiftui-intro.webp
+    path: /assets/img/swiftui-intro.jpg
     alt: XCode Swift package manager
 ---
 
